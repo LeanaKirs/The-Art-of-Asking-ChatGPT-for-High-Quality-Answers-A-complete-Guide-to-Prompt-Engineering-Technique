@@ -1,4 +1,4 @@
-# ChatGPT-
+# ChatGPT 4.0+提问技巧
 ChatGPT4.0+提问技巧
 # 如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南
 
